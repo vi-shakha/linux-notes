@@ -1,4 +1,2 @@
-This is commit 2 
-This is commit 2 
 mkdir -> makes a directry (folder)
 ls , cd , pwd ()
